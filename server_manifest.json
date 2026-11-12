@@ -2,7 +2,7 @@
     "servers": [
         {
             "name": "ForeverQuest",
-            "manifest": "https://github.com/andarius-lab/eqnexus/blob/main/server_manifest.json"
+            "manifest": "https://github.com/andarius-lab/eqnexus/releases/latest/download/manifest.json"
         }
     ]
 }
